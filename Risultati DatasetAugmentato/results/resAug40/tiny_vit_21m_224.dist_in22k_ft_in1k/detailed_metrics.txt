@@ -1,0 +1,836 @@
+Epoca: 0
+    Precision_class_0: 0.9970588235294118
+    Recall_class_0: 0.9580601401763509
+    F1_class_0: 0.9771705292286406
+    AUC_class_0: 0.9784
+    Precision_class_1: 0.3005671077504726
+    Recall_class_1: 0.8688524590163934
+    F1_class_1: 0.4466292134831461
+    AUC_class_1: 0.9782
+    Precision_class_2: 0.875
+    Recall_class_2: 0.875
+    F1_class_2: 0.875
+    AUC_class_2: 0.9949
+    Overall_Accuracy: 0.9562
+    Overall_Precision: 0.7242
+    Overall_Recall: 0.9006
+    Overall_F1: 0.7663
+    Overall_AUC: 0.9838
+--------------------------------------------------
+Epoca: 1
+    Precision_class_0: 0.996211251435132
+    Recall_class_0: 0.9808953199186072
+    F1_class_0: 0.9884939621781726
+    AUC_class_0: 0.9798
+    Precision_class_1: 0.4748427672955975
+    Recall_class_1: 0.825136612021858
+    F1_class_1: 0.6027944111776448
+    AUC_class_1: 0.9806
+    Precision_class_2: 0.7777777777777778
+    Recall_class_2: 0.875
+    F1_class_2: 0.823529411764706
+    AUC_class_2: 0.9983
+    Overall_Accuracy: 0.9776
+    Overall_Precision: 0.7496
+    Overall_Recall: 0.8937
+    Overall_F1: 0.8049
+    Overall_AUC: 0.9862
+--------------------------------------------------
+Epoca: 2
+    Precision_class_0: 0.9959885386819485
+    Recall_class_0: 0.982364910694099
+    F1_class_0: 0.9891298161743782
+    AUC_class_0: 0.9726
+    Precision_class_1: 0.4918032786885246
+    Recall_class_1: 0.819672131147541
+    F1_class_1: 0.6147540983606556
+    AUC_class_1: 0.9716
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9433
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.7816
+    Overall_Recall: 0.8507
+    Overall_F1: 0.8013
+    Overall_AUC: 0.9625
+--------------------------------------------------
+Epoca: 3
+    Precision_class_0: 0.9968822170900693
+    Recall_class_0: 0.975921320370789
+    F1_class_0: 0.9862904147149549
+    AUC_class_0: 0.9729
+    Precision_class_1: 0.42702702702702705
+    Recall_class_1: 0.8633879781420765
+    F1_class_1: 0.5714285714285715
+    AUC_class_1: 0.9777
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9686
+    Overall_Accuracy: 0.9734
+    Overall_Precision: 0.7604
+    Overall_Recall: 0.8631
+    Overall_F1: 0.7859
+    Overall_AUC: 0.9731
+--------------------------------------------------
+Epoca: 4
+    Precision_class_0: 0.997651203758074
+    Recall_class_0: 0.9603210490617228
+    F1_class_0: 0.9786302632336846
+    AUC_class_0: 0.9801
+    Precision_class_1: 0.32038834951456313
+    Recall_class_1: 0.9016393442622951
+    F1_class_1: 0.4727793696275072
+    AUC_class_1: 0.9802
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9816
+    Overall_Accuracy: 0.9589
+    Overall_Precision: 0.7251
+    Overall_Recall: 0.8707
+    Overall_F1: 0.7505
+    Overall_AUC: 0.9806
+--------------------------------------------------
+Epoca: 5
+    Precision_class_0: 0.9952895220588235
+    Recall_class_0: 0.9793126836988469
+    F1_class_0: 0.9872364672364672
+    AUC_class_0: 0.9692
+    Precision_class_1: 0.44171779141104295
+    Recall_class_1: 0.7868852459016393
+    F1_class_1: 0.5658153241650294
+    AUC_class_1: 0.9713
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.89
+    Overall_Accuracy: 0.9752
+    Overall_Precision: 0.7647
+    Overall_Recall: 0.8387
+    Overall_F1: 0.7844
+    Overall_AUC: 0.9435
+--------------------------------------------------
+Epoca: 6
+    Precision_class_0: 0.9959958814780917
+    Recall_class_0: 0.9841736378023965
+    F1_class_0: 0.9900494683573093
+    AUC_class_0: 0.979
+    Precision_class_1: 0.519163763066202
+    Recall_class_1: 0.8142076502732241
+    F1_class_1: 0.6340425531914893
+    AUC_class_1: 0.9788
+    Precision_class_2: 0.7777777777777778
+    Recall_class_2: 0.875
+    F1_class_2: 0.823529411764706
+    AUC_class_2: 0.9893
+    Overall_Accuracy: 0.9806
+    Overall_Precision: 0.7643
+    Overall_Recall: 0.8911
+    Overall_F1: 0.8159
+    Overall_AUC: 0.9824
+--------------------------------------------------
+Epoca: 7
+    Precision_class_0: 0.9943058877121057
+    Recall_class_0: 0.9869997739091114
+    F1_class_0: 0.9906393600726159
+    AUC_class_0: 0.9759
+    Precision_class_1: 0.5421686746987951
+    Recall_class_1: 0.7377049180327869
+    F1_class_1: 0.625
+    AUC_class_1: 0.9759
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9811
+    Overall_Accuracy: 0.9817
+    Overall_Precision: 0.7979
+    Overall_Recall: 0.8249
+    Overall_F1: 0.8052
+    Overall_AUC: 0.9776
+--------------------------------------------------
+Epoca: 8
+    Precision_class_0: 0.9931057866184448
+    Recall_class_0: 0.9933303187881528
+    F1_class_0: 0.993218040013564
+    AUC_class_0: 0.9667
+    Precision_class_1: 0.6813186813186813
+    Recall_class_1: 0.6775956284153005
+    F1_class_1: 0.6794520547945204
+    AUC_class_1: 0.9673
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9761
+    Overall_Accuracy: 0.9867
+    Overall_Precision: 0.8439
+    Overall_Recall: 0.807
+    Overall_F1: 0.8242
+    Overall_AUC: 0.9701
+--------------------------------------------------
+Epoca: 9
+    Precision_class_0: 0.9928877850530594
+    Recall_class_0: 0.9942346823423016
+    F1_class_0: 0.9935607772254857
+    AUC_class_0: 0.9749
+    Precision_class_1: 0.7093023255813954
+    Recall_class_1: 0.6666666666666666
+    F1_class_1: 0.6873239436619718
+    AUC_class_1: 0.9757
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9883
+    Overall_Accuracy: 0.9874
+    Overall_Precision: 0.8531
+    Overall_Recall: 0.8036
+    Overall_F1: 0.827
+    Overall_AUC: 0.9797
+--------------------------------------------------
+Epoca: 10
+    Precision_class_0: 0.9919990984899707
+    Recall_class_0: 0.9951390458964504
+    F1_class_0: 0.9935665914221219
+    AUC_class_0: 0.9711
+    Precision_class_1: 0.7307692307692307
+    Recall_class_1: 0.6229508196721312
+    F1_class_1: 0.672566371681416
+    AUC_class_1: 0.9763
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9658
+    Overall_Accuracy: 0.9874
+    Overall_Precision: 0.86
+    Overall_Recall: 0.7894
+    Overall_F1: 0.822
+    Overall_AUC: 0.9711
+--------------------------------------------------
+Epoca: 11
+    Precision_class_0: 0.9936630078080797
+    Recall_class_0: 0.9926520461225412
+    F1_class_0: 0.9931572696940565
+    AUC_class_0: 0.9804
+    Precision_class_1: 0.6683937823834197
+    Recall_class_1: 0.7049180327868853
+    F1_class_1: 0.6861702127659575
+    AUC_class_1: 0.9812
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9767
+    Overall_Accuracy: 0.9866
+    Overall_Precision: 0.8397
+    Overall_Recall: 0.8159
+    Overall_F1: 0.8264
+    Overall_AUC: 0.9795
+--------------------------------------------------
+Epoca: 12
+    Precision_class_0: 0.9944299192906673
+    Recall_class_0: 0.9889215464616776
+    F1_class_0: 0.9916680836592416
+    AUC_class_0: 0.9746
+    Precision_class_1: 0.5836909871244635
+    Recall_class_1: 0.7431693989071039
+    F1_class_1: 0.6538461538461539
+    AUC_class_1: 0.9757
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9913
+    Overall_Accuracy: 0.9837
+    Overall_Precision: 0.8118
+    Overall_Recall: 0.8274
+    Overall_F1: 0.8152
+    Overall_AUC: 0.9805
+--------------------------------------------------
+Epoca: 13
+    Precision_class_0: 0.9922218464660129
+    Recall_class_0: 0.9950260004521818
+    F1_class_0: 0.9936219450245527
+    AUC_class_0: 0.9801
+    Precision_class_1: 0.7341772151898734
+    Recall_class_1: 0.6338797814207651
+    F1_class_1: 0.6803519061583577
+    AUC_class_1: 0.9781
+    Precision_class_2: 0.75
+    Recall_class_2: 0.75
+    F1_class_2: 0.75
+    AUC_class_2: 0.8968
+    Overall_Accuracy: 0.9875
+    Overall_Precision: 0.8255
+    Overall_Recall: 0.793
+    Overall_F1: 0.808
+    Overall_AUC: 0.9517
+--------------------------------------------------
+Epoca: 14
+    Precision_class_0: 0.995417573605224
+    Recall_class_0: 0.9822518652498304
+    F1_class_0: 0.9887908961593173
+    AUC_class_0: 0.9782
+    Precision_class_1: 0.48172757475083056
+    Recall_class_1: 0.7923497267759563
+    F1_class_1: 0.5991735537190083
+    AUC_class_1: 0.9792
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9841
+    Overall_Accuracy: 0.9782
+    Overall_Precision: 0.7781
+    Overall_Recall: 0.8415
+    Overall_F1: 0.796
+    Overall_AUC: 0.9805
+--------------------------------------------------
+Epoca: 15
+    Precision_class_0: 0.9927683615819209
+    Recall_class_0: 0.9932172733438842
+    F1_class_0: 0.9929927667269439
+    AUC_class_0: 0.9808
+    Precision_class_1: 0.6759776536312849
+    Recall_class_1: 0.6612021857923497
+    F1_class_1: 0.6685082872928177
+    AUC_class_1: 0.9808
+    Precision_class_2: 0.75
+    Recall_class_2: 0.75
+    F1_class_2: 0.75
+    AUC_class_2: 0.9962
+    Overall_Accuracy: 0.9863
+    Overall_Precision: 0.8062
+    Overall_Recall: 0.8015
+    Overall_F1: 0.8038
+    Overall_AUC: 0.9859
+--------------------------------------------------
+Epoca: 16
+    Precision_class_0: 0.9936651583710407
+    Recall_class_0: 0.992991182455347
+    F1_class_0: 0.9933280560895623
+    AUC_class_0: 0.978
+    Precision_class_1: 0.6789473684210526
+    Recall_class_1: 0.7049180327868853
+    F1_class_1: 0.6916890080428955
+    AUC_class_1: 0.9776
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9899
+    Overall_Accuracy: 0.9869
+    Overall_Precision: 0.8433
+    Overall_Recall: 0.816
+    Overall_F1: 0.8283
+    Overall_AUC: 0.9818
+--------------------------------------------------
+Epoca: 17
+    Precision_class_0: 0.9926702751465944
+    Recall_class_0: 0.9951390458964504
+    F1_class_0: 0.9939031274697978
+    AUC_class_0: 0.9744
+    Precision_class_1: 0.7407407407407407
+    Recall_class_1: 0.6557377049180327
+    F1_class_1: 0.6956521739130433
+    AUC_class_1: 0.9746
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9904
+    Overall_Accuracy: 0.988
+    Overall_Precision: 0.8635
+    Overall_Recall: 0.8003
+    Overall_F1: 0.8299
+    Overall_AUC: 0.9798
+--------------------------------------------------
+Epoca: 18
+    Precision_class_0: 0.9927675443552944
+    Recall_class_0: 0.9931042278996156
+    F1_class_0: 0.992935857586889
+    AUC_class_0: 0.9786
+    Precision_class_1: 0.6685082872928176
+    Recall_class_1: 0.6612021857923497
+    F1_class_1: 0.6648351648351647
+    AUC_class_1: 0.9793
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9908
+    Overall_Accuracy: 0.9862
+    Overall_Precision: 0.8395
+    Overall_Recall: 0.8014
+    Overall_F1: 0.8193
+    Overall_AUC: 0.9829
+--------------------------------------------------
+Epoca: 19
+    Precision_class_0: 0.9939909297052154
+    Recall_class_0: 0.9910694099027809
+    F1_class_0: 0.9925280199252802
+    AUC_class_0: 0.9754
+    Precision_class_1: 0.6285714285714286
+    Recall_class_1: 0.7213114754098361
+    F1_class_1: 0.6717557251908397
+    AUC_class_1: 0.9758
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9853
+    Overall_Accuracy: 0.9854
+    Overall_Precision: 0.8266
+    Overall_Recall: 0.8208
+    Overall_F1: 0.8214
+    Overall_AUC: 0.9788
+--------------------------------------------------
+Epoca: 20
+    Precision_class_0: 0.9933280560895623
+    Recall_class_0: 0.992991182455347
+    F1_class_0: 0.9931595907060885
+    AUC_class_0: 0.9793
+    Precision_class_1: 0.6737967914438503
+    Recall_class_1: 0.6885245901639344
+    F1_class_1: 0.6810810810810812
+    AUC_class_1: 0.9793
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9883
+    Overall_Accuracy: 0.9866
+    Overall_Precision: 0.8414
+    Overall_Recall: 0.8105
+    Overall_F1: 0.8247
+    Overall_AUC: 0.9823
+--------------------------------------------------
+Epoca: 21
+    Precision_class_0: 0.9941972920696325
+    Recall_class_0: 0.9877910920189916
+    F1_class_0: 0.9909838389566203
+    AUC_class_0: 0.9785
+    Precision_class_1: 0.5560165975103735
+    Recall_class_1: 0.73224043715847
+    F1_class_1: 0.6320754716981132
+    AUC_class_1: 0.9781
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9929
+    Overall_Accuracy: 0.9824
+    Overall_Precision: 0.8025
+    Overall_Recall: 0.8233
+    Overall_F1: 0.8077
+    Overall_AUC: 0.9832
+--------------------------------------------------
+Epoca: 22
+    Precision_class_0: 0.9938955460094958
+    Recall_class_0: 0.9938955460094958
+    F1_class_0: 0.9938955460094958
+    AUC_class_0: 0.9737
+    Precision_class_1: 0.7119565217391305
+    Recall_class_1: 0.7158469945355191
+    F1_class_1: 0.7138964577656676
+    AUC_class_1: 0.9737
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9966
+    Overall_Accuracy: 0.988
+    Overall_Precision: 0.8543
+    Overall_Recall: 0.8199
+    Overall_F1: 0.8359
+    Overall_AUC: 0.9814
+--------------------------------------------------
+Epoca: 23
+    Precision_class_0: 0.9925482669075307
+    Recall_class_0: 0.9937825005652272
+    F1_class_0: 0.9931650002824379
+    AUC_class_0: 0.973
+    Precision_class_1: 0.6878612716763006
+    Recall_class_1: 0.6502732240437158
+    F1_class_1: 0.6685393258426967
+    AUC_class_1: 0.9723
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9931
+    Overall_Accuracy: 0.9866
+    Overall_Precision: 0.8459
+    Overall_Recall: 0.798
+    Overall_F1: 0.8206
+    Overall_AUC: 0.9795
+--------------------------------------------------
+Epoca: 24
+    Precision_class_0: 0.9905596763317599
+    Recall_class_0: 0.9963825457834049
+    F1_class_0: 0.9934625788999097
+    AUC_class_0: 0.9736
+    Precision_class_1: 0.7651515151515151
+    Recall_class_1: 0.5519125683060109
+    F1_class_1: 0.6412698412698412
+    AUC_class_1: 0.9733
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9834
+    Overall_Accuracy: 0.9872
+    Overall_Precision: 0.871
+    Overall_Recall: 0.7661
+    Overall_F1: 0.8116
+    Overall_AUC: 0.9768
+--------------------------------------------------
+Epoca: 25
+    Precision_class_0: 0.9892449025319292
+    Recall_class_0: 0.9981912728917025
+    F1_class_0: 0.9936979518343462
+    AUC_class_0: 0.97
+    Precision_class_1: 0.8557692307692307
+    Recall_class_1: 0.48633879781420764
+    F1_class_1: 0.6202090592334495
+    AUC_class_1: 0.9688
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9925
+    Overall_Accuracy: 0.9876
+    Overall_Precision: 0.9007
+    Overall_Recall: 0.7448
+    Overall_F1: 0.8046
+    Overall_AUC: 0.9771
+--------------------------------------------------
+Epoca: 26
+    Precision_class_0: 0.9936630078080797
+    Recall_class_0: 0.9926520461225412
+    F1_class_0: 0.9931572696940565
+    AUC_class_0: 0.975
+    Precision_class_1: 0.6683937823834197
+    Recall_class_1: 0.7049180327868853
+    F1_class_1: 0.6861702127659575
+    AUC_class_1: 0.9698
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9823
+    Overall_Accuracy: 0.9866
+    Overall_Precision: 0.8397
+    Overall_Recall: 0.8159
+    Overall_F1: 0.8264
+    Overall_AUC: 0.9757
+--------------------------------------------------
+Epoca: 27
+    Precision_class_0: 0.9912310286677909
+    Recall_class_0: 0.9967216821162107
+    F1_class_0: 0.9939687728989347
+    AUC_class_0: 0.9608
+    Precision_class_1: 0.7925925925925926
+    Recall_class_1: 0.5846994535519126
+    F1_class_1: 0.6729559748427673
+    AUC_class_1: 0.9545
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9864
+    Overall_Accuracy: 0.9882
+    Overall_Precision: 0.8803
+    Overall_Recall: 0.7771
+    Overall_F1: 0.8223
+    Overall_AUC: 0.9672
+--------------------------------------------------
+Epoca: 28
+    Precision_class_0: 0.9923371647509579
+    Recall_class_0: 0.9954781822292562
+    F1_class_0: 0.9939051918735892
+    AUC_class_0: 0.9699
+    Precision_class_1: 0.75
+    Recall_class_1: 0.639344262295082
+    F1_class_1: 0.6902654867256638
+    AUC_class_1: 0.967
+    Precision_class_2: 0.8571428571428571
+    Recall_class_2: 0.75
+    F1_class_2: 0.7999999999999999
+    AUC_class_2: 0.9853
+    Overall_Accuracy: 0.988
+    Overall_Precision: 0.8665
+    Overall_Recall: 0.7949
+    Overall_F1: 0.8281
+    Overall_AUC: 0.974
+--------------------------------------------------
+Epoca: 29
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 30
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 31
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 32
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 33
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 34
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 35
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 36
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 37
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 38
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 39
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 40
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 41
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: 42
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------
+Epoca: FINALTEST
+    Precision_class_0: 0.9788646674781454
+    Recall_class_0: 1.0
+    F1_class_0: 0.9893194654140804
+    AUC_class_0: nan
+    Precision_class_1: 0.0
+    Recall_class_1: 0.0
+    F1_class_1: 0.0
+    AUC_class_1: nan
+    Precision_class_2: 0.0
+    Recall_class_2: 0.0
+    F1_class_2: 0.0
+    AUC_class_2: nan
+    Overall_Accuracy: 0.9789
+    Overall_Precision: 0.3263
+    Overall_Recall: 0.3333
+    Overall_F1: 0.3298
+    Overall_AUC: 0.0
+--------------------------------------------------

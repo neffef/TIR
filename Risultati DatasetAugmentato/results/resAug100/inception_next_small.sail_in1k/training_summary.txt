@@ -1,0 +1,36 @@
+Training Summary
+==================================================
+Model: inception_next_small.sail_in1k
+
+Parameters:
+  model: inception_next_small.sail_in1k
+  checkpoint: None
+  dataset_path_train: /home/server/workspaces/Python/TIR_Schisto_nf/datasets/PerModelli/Augmented/Diametro10.0/Augmented100/train
+  dataset_path_val: /home/server/workspaces/Python/TIR_Schisto_nf/datasets/PerModelli/Augmented/Diametro10.0/Augmented100/val
+  dataset_path_test: /home/server/workspaces/Python/TIR_Schisto_nf/datasets/PerModelli/Augmented/Diametro10.0/Augmented100/test
+  output_path: /home/server/workspaces/Python/TIR_Schisto_nf/scripts/src/terzaparte/testAllModels/results/resAug100/SC-IDB
+  dataset_name: SC-IDB
+  batch_size: 32
+  epochs: 100
+  lr: 0.0001
+  num_workers: 3
+  device: cuda
+  use_amp: True
+  gradient_clip: 1
+  cutmix: False
+  mixup: False
+  seed: -1
+  log_file: log.csv
+  result_file: results.csv
+  detailed_csv: detailed_metrics.csv
+  detailed_txt: detailed_metrics.txt
+  training_summary: training_summary.txt
+  drop_rate: 0.0
+  drop_path_rate: 0.0
+  early_stopping_patience: 20
+
+Classes:
+  - RBC
+  - Schistocyte
+  - WBC
+==================================================
